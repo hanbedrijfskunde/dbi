@@ -1,6 +1,8 @@
 # Dit is de repository van de Minor Digital Business & Innovation van de HAN
 
-Hier vind je de code van de voorbeelden die tijdens het werkcollege Big D worden getoond.
+![](https://images.unsplash.com/photo-1513061780970-4f34b3f350dd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1489&q=80)
+
+Hier vind je de bestanden en voorbeelden die tijdens het werkcollege Big D worden getoond.
 
 - Google Spreadsheets: [Data Inlezen Student](https://docs.google.com/spreadsheets/d/1ulco3taIoRR3-29HjS48IWoMufV8X0I5xwhUO5zgOfk/copy)
 - Google Spreadheets: [Sentiment nieuws](https://docs.google.com/spreadsheets/d/10S_jwukMS0KBXaMtKhZmQEXLMPZxUM6shN6cpSYw07Q/copy)

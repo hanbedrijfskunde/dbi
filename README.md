@@ -1,6 +1,6 @@
 # Dit is de repository van de Minor Digital Business & Innovation van de HAN
 
-![](https://images.unsplash.com/photo-1513061780970-4f34b3f350dd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1489&q=80)
+![](https://cdn-images-1.medium.com/max/1600/1*0KFB17_NGTPB0XWyc4BSgQ.jpeg)
 
 Hier vind je de bestanden en voorbeelden die tijdens het werkcollege Big D worden getoond.
 

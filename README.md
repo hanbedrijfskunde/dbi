@@ -8,3 +8,9 @@ Hier vind je de bestanden en voorbeelden die tijdens het werkcollege Big D worde
 - Google Spreadheets: [Sentiment nieuws](https://docs.google.com/spreadsheets/d/10S_jwukMS0KBXaMtKhZmQEXLMPZxUM6shN6cpSYw07Q/copy)
 - Voorbeeld fotohokje: [Demo](https://hanbedrijfskunde.github.io/dbi/camstills/webcam.html) en [code](https://github.com/hanbedrijfskunde/dbi/tree/master/camstills)
 - Voorbeeld image recognition: [Demo](https://hanbedrijfskunde.github.io/dbi/ml5/webcam.html) en [code](https://github.com/hanbedrijfskunde/dbi/tree/master/ml5)
+
+Inspiratie:
+
+- [Picojs](https://github.com/tehnokv/picojs)
+- [ML5](https://ml5js.org/)
+- [Google Eperiments](https://experiments.withgoogle.com/collections)

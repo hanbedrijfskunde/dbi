@@ -2,7 +2,7 @@
 
 ![](https://cdn-images-1.medium.com/max/1600/1*0KFB17_NGTPB0XWyc4BSgQ.jpeg)
 
-Hier vind je de bestanden en voorbeelden die tijdens het werkcollege Big D worden getoond.
+Hier vind je de bestanden en voorbeelden die tijdens het werkcollege BigD4BigC worden getoond.
 
 - Google Spreadsheets: [Financial Dashboard](https://docs.google.com/spreadsheets/d/1vAmgNhrNsxfrhG_kTeseXOdR2EwdZUU63kH_tvaJprU/copy)
 - Google Spreadsheets: [Data Inlezen Student](https://docs.google.com/spreadsheets/d/1ulco3taIoRR3-29HjS48IWoMufV8X0I5xwhUO5zgOfk/copy)

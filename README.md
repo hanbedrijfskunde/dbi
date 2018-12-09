@@ -1,8 +1,8 @@
 # DBI
 
-### Dit is de repository van de Minor Digital Business & Innovation van de HAN
-
 ![](https://cdn-images-1.medium.com/max/1600/1*0KFB17_NGTPB0XWyc4BSgQ.jpeg)
+
+#### Dit is de repository van de Minor Digital Business & Innovation van de HAN
 
 Hier vind je de bestanden en voorbeelden die tijdens het werkcollege BigD4BigC worden getoond.
 

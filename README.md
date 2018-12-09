@@ -14,4 +14,4 @@ Inspiratie:
 
 - [Picojs](https://github.com/tehnokv/picojs)
 - [ML5](https://ml5js.org/)
-- [Google Eperiments](https://experiments.withgoogle.com/collections)
+- [Google Experiments](https://experiments.withgoogle.com/collections)

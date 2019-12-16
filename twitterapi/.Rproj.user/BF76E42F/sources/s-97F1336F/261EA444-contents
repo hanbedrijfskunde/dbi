@@ -1,9 +1,0 @@
-library(pdftables)
-
-convert_pdf("results.pdf", "results.csv")
-
-
-library(tabulizer)
-library(dplyr)
-
-out <- extract_tables("results.pdf")

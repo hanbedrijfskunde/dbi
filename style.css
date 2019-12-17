@@ -1,6 +1,6 @@
 body {
 	background-color: gold;
-	padding-left: 25px;
+	padding-left: 2vw;
 	color: black;
 }
 
@@ -17,8 +17,8 @@ header.name img {
 
 article {
 	margin-top: 20px;
-	margin-left: 170px;
-	margin-right: 170px;
+	margin-left: 15vw;
+	margin-right: 15vw;
 }
 
 article h3 {

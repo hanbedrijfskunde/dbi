@@ -6,8 +6,13 @@ body {
 
 header.name {
 	font-family: 'Lilita One', cursive;
-	font-size: 100px;
+	font-size: 12vw;
 	margin-bottom: 80px;
+}
+
+header.name img {
+	max-width: 15%;
+	height: auto;
 }
 
 article {
@@ -18,10 +23,12 @@ article {
 
 article h3 {
 	font-family: 'Montserrat', sans-serif;
+	font-size: 4vw;
 }
 
 article main {
 	font-family: 'Montserrat', sans-serif;
+	ont-size: 2vw;
 }
 
 article main details summary {
